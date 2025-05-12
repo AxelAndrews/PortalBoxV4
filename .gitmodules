@@ -1,0 +1,9 @@
+[submodule "DocumentationSD"]
+	path = DocumentationSD
+	url = https://github.com/AxelAndrews/DocumentationSD.git
+[submodule "MakerportalSD"]
+	path = MakerportalSD
+	url = https://github.com/AxelAndrews/MakerportalSD.git
+[submodule "PortalBoxSD"]
+	path = PortalBoxSD
+	url = https://github.com/AxelAndrews/PortalBoxSD.git
